@@ -5,3 +5,7 @@ Feature: Kurran
   @JUL3-2 @OPEN
   Scenario: One
     Given
+
+  @ORPHAN
+  Scenario: Two
+    Given
