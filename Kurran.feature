@@ -6,6 +6,6 @@ Feature: Kurran
   Scenario: One
     Given
 
-  @ORPHAN
+  @JUL3-3 @OPEN
   Scenario: Two
     Given
