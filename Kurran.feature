@@ -2,6 +2,6 @@ Feature: Kurran
 
   demo
 
-  @ORPHAN
+  @JUL3-2 @OPEN
   Scenario: One
     Given
