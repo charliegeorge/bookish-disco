@@ -1,5 +1,5 @@
 Feature: Jack
 
-  @ORPHAN
+  @GIT-1 @OPEN
   Scenario: Jack
     Given something
